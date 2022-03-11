@@ -1,3 +1,5 @@
+#https://github.com/Nemesis0U/Smallshark
+#DISCLAIMER: This tool is only for educational purposes and can only be used where strict consent has been given. Do not use this for illegal purposes.
 import os
 import pyfiglet
 import string
