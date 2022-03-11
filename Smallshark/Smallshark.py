@@ -5,7 +5,7 @@ import secrets
 from colorama import init
 from colorama import Fore, Back, Style
 init(convert=True)
-alphabet = string.ascii_letters + string.digits
+alphabet = string.ascii_letters
 def Clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 def RandomData():
