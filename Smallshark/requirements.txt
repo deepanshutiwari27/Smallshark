@@ -1,3 +1,2 @@
 pyfiglet
-secrets
 colorama
