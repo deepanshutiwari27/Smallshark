@@ -10,7 +10,8 @@
 - Get reverse shell access of victim
 - Undetectable by most antivirus
 
-![Image](https://user-images.githubusercontent.com/83503290/157923130-11edd2de-8f46-4d15-81fc-8c9dd3d6c7c6.png)
+![SharkImage](https://github.com/Nemesis0U/Smallshark/assets/83503290/c6e5c77f-0a6a-44fd-8b0a-9d05d84ff771)
+
 
 Generated file:
 
