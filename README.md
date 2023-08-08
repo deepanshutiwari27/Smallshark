@@ -1,5 +1,5 @@
 # Smallshark
-## Deanonymization of darknet users & no-port-forwarding backdoor through fake video files.
+## Deanonymization of darknet users & backdoor without port forwarding using fake video files.
 ## DO NOT UPLOAD IT TO VIRUSTOTAL AS I HAVE ALREADY DONE IT!
 ### Features:
 
