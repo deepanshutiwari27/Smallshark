@@ -11,6 +11,12 @@
 - FUD (Fully undetectable)
 - Generator script both works with Windows and Linux
 
+### After target opens the file : 
+- 1 Open Metasploit or it's equivalent
+- 2 Choose bind shell 
+- 3 Enter victim's ip as RHOST
+- 4 Enter 8443 as RPORT
+- 5 Exploit
 
 ![1](https://github.com/Nemesis0U/Smallshark/assets/83503290/c38b761c-dd13-4298-b0cd-7148949bbb67)
 
