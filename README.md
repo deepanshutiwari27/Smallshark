@@ -1,5 +1,5 @@
 # Smallshark
-## Deanonymization of Tor Browser Users & getting reverse shell through antivirus evading fake image file malware.
+## Deanonymization of Darknet users & no port forwarding backdoor through fake video files.
 ## DO NOT UPLOAD IT TO VIRUSTOTAL AS I HAVE ALREADY DONE IT!
 ### Features:
 
