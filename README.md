@@ -6,7 +6,7 @@
 - Fake file extension (RTLO Attack) (Turns .exe file to .mp4 file)
 - Fake file icon
 - Disables victim firewall
-- Sends you real ip address of targets who downloaded this ghost malware over Darknet
+- Sends you real ip address of targets who downloaded this ghost malware using Darknet
 - No port forwarding (Uses Victim's PC As C&C Server)
 - FUD (Fully undetectable)
 - Generator script both works with Windows and Linux
