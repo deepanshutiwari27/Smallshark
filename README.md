@@ -1,6 +1,10 @@
 # Smallshark
 ## Deanonymization of darknet users & backdoor without port forwarding using fake video files.
 ## DO NOT UPLOAD IT TO VIRUSTOTAL AS I HAVE ALREADY DONE IT!
+## DONATE ME FOR MORE TOOLS: 
+### Donate me by Monero: 4AYrY1Da5Mxf2v2ukTVTcbDiwEs2b1PcSPXTEKfQ3p9PVagzNMWPcmv3vB3KuQ4YrgRNadTquiyVkEdj9PUYrZEFUtXuRDX 
+### Donate me by Bitcoin: 3Q31AC3foChrcJWJ2DMMUbHdfAebNRjoW8
+
 ### Features:
 
 - Fake file extension (RTLO Attack) (Turns .exe file to .mp4 file)
