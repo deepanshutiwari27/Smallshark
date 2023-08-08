@@ -9,6 +9,7 @@
 - Sends you real ip address of targets who downloaded this ghost malware over Darknet
 - No port forwarding (Uses Victim's PC As C&C Server)
 - FUD (Fully undetectable)
+- Generator script both works with Windows and Linux
 
 
 ![1](https://github.com/Nemesis0U/Smallshark/assets/83503290/c38b761c-dd13-4298-b0cd-7148949bbb67)
