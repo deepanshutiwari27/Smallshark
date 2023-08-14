@@ -1,9 +1,6 @@
 # Smallshark
+
 ## Deanonymization of darknet users & backdoor without port forwarding using fake video files.
-## DO NOT UPLOAD IT TO VIRUSTOTAL AS I HAVE ALREADY DONE IT!
-## DONATE ME FOR MORE TOOLS: 
-### Donate me by Monero: 4AYrY1Da5Mxf2v2ukTVTcbDiwEs2b1PcSPXTEKfQ3p9PVagzNMWPcmv3vB3KuQ4YrgRNadTquiyVkEdj9PUYrZEFUtXuRDX 
-### Donate me by Bitcoin: 3Q31AC3foChrcJWJ2DMMUbHdfAebNRjoW8
 
 ### Features:
 
@@ -13,7 +10,7 @@
 - Sends you real ip address of targets who downloaded this ghost malware using Darknet
 - No port forwarding (Uses Victim's PC As C&C Server)
 - FUD (Fully undetectable)
-- Generator script both works with Windows and Linux
+- Builder script both works with Windows and Linux
 
 ### After target opens the file : 
 - 1 Open Metasploit or it's equivalent
@@ -27,10 +24,6 @@
 ![2](https://github.com/Nemesis0U/Smallshark/assets/83503290/79963fbe-542b-4d28-8911-847d46ff8cd5)
 
 
-Generated file:
-
-![RTLO](https://user-images.githubusercontent.com/83503290/157925846-b236f942-fe92-4dff-b730-ee9aab65aa3d.png)
-
 
 Scan Results(2022):
 
@@ -40,7 +33,9 @@ New Results(2023):
 
 ![3](https://github.com/Nemesis0U/Smallshark/assets/83503290/e47fc9e4-9f85-478d-aea4-c01e57be5ad1)
 
+Generated ghost malware:
 
+![RTLO](https://user-images.githubusercontent.com/83503290/157925846-b236f942-fe92-4dff-b730-ee9aab65aa3d.png)
 
 ### Disclaimer:
 ### This tool is created by Nemesis0U only for educational purposes and can only be used where strict consent has been given. Do not use this for illegal purposes.
