@@ -21,17 +21,11 @@
 
 ![1](https://github.com/Nemesis0U/Smallshark/assets/83503290/c38b761c-dd13-4298-b0cd-7148949bbb67)
 
-![2](https://github.com/Nemesis0U/Smallshark/assets/83503290/79963fbe-542b-4d28-8911-847d46ff8cd5)
 
-
-
-Scan Results(2022):
-
-![Results](https://user-images.githubusercontent.com/83503290/157923694-de91a013-ef85-43d9-a364-797c1b2481df.png)
-
-New Results(2023):
+New Results(2023, No longer FUD):
 
 ![3](https://github.com/Nemesis0U/Smallshark/assets/83503290/e47fc9e4-9f85-478d-aea4-c01e57be5ad1)
+
 
 Generated ghost malware:
 
