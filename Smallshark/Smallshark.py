@@ -36,7 +36,7 @@ polymorphic2 = RandomData()
 polymorphic3 = RandomData()
 polymorphic4 = RandomData()
 polymorphic5 = RandomData()
-with open('TemplateLinux.cpp') as f:
+with open('Template.cpp') as f:
              Template = f.readlines()
              f.close()
 generated = open("Generated.cpp", "a")
