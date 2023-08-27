@@ -27,7 +27,8 @@
 - 5 Exploit
 
 
-![screenshot1](https://github.com/Nemesis0U/Smallshark/assets/83503290/cc7973c6-0573-4899-9f3c-8bc52a4d6923)
+![screenshot](https://github.com/Nemesis0U/Smallshark/assets/83503290/cc6293a1-d5f5-4dae-8d7f-83587b254be5)
+
 
 
 
@@ -41,5 +42,7 @@ Generated ghost malware:
 
 ![RTLO](https://user-images.githubusercontent.com/83503290/157925846-b236f942-fe92-4dff-b730-ee9aab65aa3d.png)
 
+
 ### Disclaimer:
 ### This tool is created by Nemesis0U only for educational purposes and can only be used where strict consent has been given. Do not use this for illegal purposes.
+### Bitcoin address for buying me a coffee: bc1qf8j9tzesw4vkchyuvkjfl3wcrxdnnp02q72ccy
