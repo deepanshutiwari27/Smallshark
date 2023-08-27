@@ -30,7 +30,7 @@ print(Fore.LIGHTBLUE_EX + r'''                                 ,-
                                    ""            "            `-._) ''')
 ascii_banner = pyfiglet.figlet_format("Smallshark")
 print(Fore.LIGHTWHITE_EX + ascii_banner)
-print("\nDeanonymization of TOR Users & Backdoor with FUD fake image files.\n\n")
+print("\nDeanonymization of TOR Users & Backdoor with FUD fake video files.\n\n")
 polymorphic = RandomData()
 polymorphic2 = RandomData()
 polymorphic3 = RandomData()
