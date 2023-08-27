@@ -17,7 +17,7 @@
 - 3 Open ngrok tool and listen loopback interface from tcpdump
 - 4 Add IP Logger link to ensure obtaining IP address of the target 
 
-### Running this file will disable target's firewall and add bind shell to target's PC
+### Running this file will disable target's firewall and inject bind shell to target's PC
 
 ### After target opens the file : 
 - 1 Open Metasploit or it's equivalent
