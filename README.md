@@ -1,6 +1,6 @@
 # Smallshark
 
-## Deanonymization of darknet users & backdoor without port forwarding using fake video files.
+## Bind shell without port forwarding using fake video files.
 
 ### Features:
 
